@@ -1,8 +1,7 @@
 # FIXER
 AI-powered chatbot designed to provide helpful and accurate answers to code analysis and scan analysis.
 
-
-<img width="667" alt="Screenshot 2024-05-20 at 5 09 21 PM" src="https://github.com/sarag5/FIXER/assets/94899972/ff688224-e457-48e1-8d99-2cc3a52d58a6">
+<img width="667" alt="Screenshot 2024-05-20 at 5 09 21 PM" src="https://github.com/sarag5/FIXER/assets/94899972/e631ccd4-7452-4727-af61-232c42548255">
 
 ## Introduction
 
@@ -63,15 +62,15 @@ execute_query(query)  # This can be exploited
 
 ### CWE Check
 
-<img width="993" alt="Screenshot 2024-05-20 at 4 49 49 PM" src="https://github.com/sarag5/FIXER/assets/94899972/9eec98f8-b66b-430f-b8e1-7ddb858b11ea">
+<img width="993" alt="Screenshot 2024-05-20 at 4 49 49 PM" src="https://github.com/sarag5/FIXER/assets/94899972/98e0fed4-3769-4a9e-bc49-3bc839e64568">
 
 ### Vulnerability Analysis
 
-<img width="993" alt="Screenshot 2024-05-20 at 4 51 48 PM" src="https://github.com/sarag5/FIXER/assets/94899972/79de7134-0b79-49ca-883c-d19cb18b7dfb">
+<img width="993" alt="Screenshot 2024-05-20 at 4 51 48 PM" src="https://github.com/sarag5/FIXER/assets/94899972/37c3e0ac-ece3-469b-ad6f-edd6bb73c4d4">
 
 ### Code Analysis
 
-<img width="993" alt="Screenshot 2024-05-20 at 4 54 24 PM" src="https://github.com/sarag5/FIXER/assets/94899972/56d300d5-c1df-4a24-a294-5f7949c6f7b1">
+<img width="993" alt="Screenshot 2024-05-20 at 4 54 24 PM" src="https://github.com/sarag5/FIXER/assets/94899972/f161afd1-4d53-43bc-a72b-e7773e6f6a31">
 
 
 ## Contact
